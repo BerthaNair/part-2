@@ -6,3 +6,4 @@ updated homepage
 styled service page
 styled about page 
 improved contact form
+styled enquiry form
