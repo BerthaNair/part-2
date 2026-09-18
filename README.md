@@ -9,3 +9,4 @@ improved contact form
 styled enquiry form
 added glass effect to forms
 imporoved button hover effect
+fixed all my page spacing and alignment
