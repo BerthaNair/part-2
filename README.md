@@ -4,3 +4,4 @@ i put and improved navigation bar
 added subtle 3D aspects
 updated homepage
 styled service page
+styles about page 
